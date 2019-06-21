@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebApplication43/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebApplication43/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxHtmlEditor - How to embed Header and Footer to exported document
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t135638/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to embed header and footer to an exported document when using the ASPxHtmlEditor.<br />This functionality is implemented using the <strong>RichEditDocumentServer</strong> control and the <strong>XtraPrinting Library</strong> functionality. </p>
